@@ -1,0 +1,13 @@
+{
+    "id": 5,
+    "token":"7fcfa0fb29",
+    "question":"what is the capital of india ?",
+    "choice1" :"Mumbai",
+    "choice2":"Delhi",
+    "choice3":"Calcuta",
+    "choice4":"Banglore",
+    "key":2,
+    "marks":2,
+    "remarks":"Good"
+
+}
